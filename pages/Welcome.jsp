@@ -49,7 +49,7 @@ if(submit.equals("go")){ %>
 
 <h3><bean:message key="welcome.heading"/></h3>
 <p><bean:message key="welcome.message"/></p>
-<p>あああ</p>
+<p>ウェルカムページ</p>
 
 <form method="post" >
 <Input type="submit" name="send" value="go" />
